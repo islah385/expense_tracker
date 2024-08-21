@@ -1,0 +1,70 @@
+{
+   "checksum": "ee1f25de102504dc9bc0430eb8b4dca4",
+   "roots": {
+      "bookmark_bar": {
+         "children": [ {
+            "children": [ {
+               "date_added": "13287320477052877",
+               "date_last_used": "0",
+               "guid": "6e431936-242d-48cc-b1e1-aef4296a7372",
+               "id": "8",
+               "name": "Lenovo Support",
+               "show_icon": false,
+               "source": "sync",
+               "type": "url",
+               "url": "http://support.lenovo.com/"
+            }, {
+               "date_added": "13287320477052877",
+               "date_last_used": "0",
+               "guid": "59f31054-dbc2-40cd-8096-7ef3f83d7c75",
+               "id": "9",
+               "name": "Lenovo",
+               "show_icon": false,
+               "source": "sync",
+               "type": "url",
+               "url": "http://www.lenovo.com/"
+            } ],
+            "date_added": "13297427237391236",
+            "date_last_used": "0",
+            "date_modified": "13297427237391236",
+            "guid": "2e5a2002-3e93-43bf-9832-5084a786ce1d",
+            "id": "7",
+            "name": "Lenovo",
+            "source": "unknown",
+            "type": "folder"
+         } ],
+         "date_added": "13368082467340816",
+         "date_last_used": "0",
+         "date_modified": "0",
+         "guid": "0bc5d13f-2cba-5d74-951f-3f233fe6c908",
+         "id": "1",
+         "name": "Favorites bar",
+         "source": "unknown",
+         "type": "folder"
+      },
+      "other": {
+         "children": [  ],
+         "date_added": "13368082467340819",
+         "date_last_used": "0",
+         "date_modified": "0",
+         "guid": "82b081ec-3dd3-529c-8475-ab6c344590dd",
+         "id": "2",
+         "name": "Other favorites",
+         "source": "unknown",
+         "type": "folder"
+      },
+      "synced": {
+         "children": [  ],
+         "date_added": "13368082467340821",
+         "date_last_used": "0",
+         "date_modified": "0",
+         "guid": "4cf2e351-0e85-532b-bb37-df045d8f8d0f",
+         "id": "3",
+         "name": "Mobile favorites",
+         "source": "unknown",
+         "type": "folder"
+      }
+   },
+   "sync_metadata": "CkEKHgiIgQISCAIxGE+RAQAAKg4QABgAIAAoBDAAOABAABIAKhhTeGloSTdqak1Rd3VrUzFHbjR6SThRPT1IA6AGDBKJAQgDEoQBChxuamdEdTg4ZUNydlhwODZwRDdmSEdjcUZwODg9EiQxOWJhZGY3Zi1kMjA0LTVlOTctODc1NS02NzhlYzM0MzRjYzUYACAAKAAwtOK6iugvOPqW0pzrL0D6ltKc6y9KHHl6TkIwMWNuNTRBN2NSVTB1VCsvUGdtVHRVbz1aAGUAAAAAEqcBCAkSogEKHHBSanRya0c3SXhMMUNlVEZOMVJOeTA2Zm80bz0SJDU5ZjMxMDU0LWRiYzItNDBjZC04MDk2LTdlZjNmODNkN2M3NRgAIAAoADDXw93djTA4wsTd3Y0wQMLE3d2NMEocWXlXVGhqenBTcDlmSkV2SUxNcHkvdDFPSG1vPVoeIhxWNzZjMUNhdjBwakM0ZWh4WFZmSmFKSjYwTlk9ZQAAAAASiQEIARKEAQoceXhKLzZmdmtlY3I3a3A1RVF6QjR0V0xwZGJFPRIkYjE4OGM3OWMtZTZkOC01MmIxLTkyZWYtNjMwMmRlZWE0YjM0GAAgACgAMLTiuoroLzipl9Kc6y9AqZfSnOsvShxhUkNXTGdoRjliNUlucUtJRHZ1Si9qdlFrRmM9WgBlAAAAABKnAQgIEqIBChxoWUY5QnpScWM3a3ZycHVmR2J3SzV2Z0NUVXc9EiQ2ZTQzMTkzNi0yNDJkLTQ4Y2MtYjFlMS1hZWY0Mjk2YTczNzIYACAAKAAw18Pd3Y0wOLLE3d2NMECyxN3djTBKHEl1akY4TGEwUFEzQTQvaGNOTXlJZmhYdkVHUT1aHiIcSVZFVkZjSTFTOVVRQWhEa080VlFwY3B3L2FrPWUAAAAAEqcBCAcSogEKHFB5ZzVFR3NFc2lDaldzM2xyVVVRTGp4R2pmQT0SJDJlNWEyMDAyLTNlOTMtNDNiZi05ODMyLTUwODRhNzg2Y2UxZBgAIAAoADDXw93djTA4k8Td3Y0wQJPE3d2NMEocTUdwWEg1djZFNlBOM3VaOWQ2NG9SM0tOSmVVPVoeIhxGRmh3MVRaL1M0NWZwU3NGZHdFRDNFYWZUQ1E9ZQAAAAASiQEIAhKEAQocWWNTVG9udkVTUHdxQ3M0TDJjclZodjY4TDk4PRIkNWFiZmJjODctM2JkMi01Mzk2LWIyOTctOGU0NjgzNWU4NjIzGAAgACgAMLTiuoroLziKl9Kc6y9AipfSnOsvShxvUFZraHdCUmJWNjVLQ1dSMitJT05IV29PdTg9WgBlAAAAADAAOAA=",
+   "version": 1
+}
